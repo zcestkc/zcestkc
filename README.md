@@ -5,7 +5,7 @@
 <b>NOW</b>
 <ul>
 <li>🛠 Building side projects;</li>
-<li>🇬🇧 Looking out for full-stack opportunities;</li>
+<li>🇬🇧 Looking out for front-end/full-stack opportunities;</li>
 </ul>
 
 <b>BIO</b>
