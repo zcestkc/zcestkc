@@ -11,7 +11,7 @@
 <b>BIO</b>
 <ul>
 <li>🏢 I'm a Frontend Developer;</li>
-<li>⚙️ I use daily: Typescript Java Angular React Spring Boot;</li>
+<li>⚙️ I use daily: React Angular Typescript;</li>
 <li>💻 Personal Website: NA;</li>
 <li>📫 Reach me: linkedin.com/in/kwan-chan-170412170;</li>
 <li>⚡️ Coder by day, Gymbro by night;</li>
